@@ -18,7 +18,8 @@ Then I started connecting them
 
 At first, all the special wires were connected to the ground and power.
 
-After that I started connecting :
+
+# After that I started connecting :
 
 Servo 1 with pin 8.
 
@@ -29,6 +30,7 @@ Servo 3 with pin 10.
 Servo 4 with pin 11.
 
 Servo 5 with pin 12.
+
 
 
 Potentiometer 1 with pin A0.
@@ -42,9 +44,10 @@ Potentiometer 4 with pin A3.
 Potentiometer 5 with pin A4.
 
 
-As shown in the sent photo.
+# As shown in the sent photo.
+![circuit](https://user-images.githubusercontent.com/85841913/122965170-96948800-d390-11eb-985d-6220fbb2a5a7.PNG)
 
-Then I used the code shown below.
+# Then I used the code shown below.
 
 
 
