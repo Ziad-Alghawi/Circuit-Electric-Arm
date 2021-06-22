@@ -1,7 +1,10 @@
 # Circuit-Electric-Arm
 Task 1 : Motor drive design and implementation for robot arm
+
 In the beginning , I created an account on tinkercad.
+
 Then I started making the circuit .
+
 I used five Servo motors.
 I also used an Arduino Uno R3.
 I also used a small Breadboard.
